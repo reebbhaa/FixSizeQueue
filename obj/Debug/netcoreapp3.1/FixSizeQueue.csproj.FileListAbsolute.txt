@@ -1,0 +1,13 @@
+/home/hackfest08/git/FixSizeQueue/bin/Debug/netcoreapp3.1/FixSizeQueue
+/home/hackfest08/git/FixSizeQueue/bin/Debug/netcoreapp3.1/FixSizeQueue.deps.json
+/home/hackfest08/git/FixSizeQueue/bin/Debug/netcoreapp3.1/FixSizeQueue.runtimeconfig.json
+/home/hackfest08/git/FixSizeQueue/bin/Debug/netcoreapp3.1/FixSizeQueue.runtimeconfig.dev.json
+/home/hackfest08/git/FixSizeQueue/bin/Debug/netcoreapp3.1/FixSizeQueue.dll
+/home/hackfest08/git/FixSizeQueue/bin/Debug/netcoreapp3.1/FixSizeQueue.pdb
+/home/hackfest08/git/FixSizeQueue/obj/Debug/netcoreapp3.1/FixSizeQueue.csprojAssemblyReference.cache
+/home/hackfest08/git/FixSizeQueue/obj/Debug/netcoreapp3.1/FixSizeQueue.csproj.CoreCompileInputs.cache
+/home/hackfest08/git/FixSizeQueue/obj/Debug/netcoreapp3.1/FixSizeQueue.AssemblyInfoInputs.cache
+/home/hackfest08/git/FixSizeQueue/obj/Debug/netcoreapp3.1/FixSizeQueue.AssemblyInfo.cs
+/home/hackfest08/git/FixSizeQueue/obj/Debug/netcoreapp3.1/FixSizeQueue.dll
+/home/hackfest08/git/FixSizeQueue/obj/Debug/netcoreapp3.1/FixSizeQueue.pdb
+/home/hackfest08/git/FixSizeQueue/obj/Debug/netcoreapp3.1/FixSizeQueue.genruntimeconfig.cache
